@@ -1,0 +1,76 @@
+# Documentación de Plantilla n8n para Videos Virales POV
+
+## Descripción General
+Esta plantilla automatiza la creación y publicación de videos virales en formato POV (Point of View) usando múltiples APIs de IA.
+
+## Flujo de Trabajo
+
+### 1. Entrada de Datos
+- Lee ideas de videos desde Google Sheets
+- Se ejecuta cada 8 horas automáticamente
+- Filtra por "para producción"
+
+### 2. Generación de Contenido
+#### Títulos (GPT-4)
+- Genera títulos optimizados para redes sociales
+- Usa prompts específicos para POV
+- Incluye palabras clave virales
+
+#### Imágenes (Flux AI)
+- Genera imágenes en formato POV
+- Resolución: 540x960
+- Estilo: Primera persona, tipo GoPro
+
+#### Videos (Kling AI)
+- Convierte imágenes a video
+- Duración: 5 segundos por escena
+- Efectos de cámara suaves
+
+#### Audio (ElevenLabs)
+- Genera sonidos ambientales
+- Duración: 5 segundos
+- Influencia del prompt: 0.75
+
+### 3. Edición y Renderizado (Creatomate)
+- Combina videos, audio y textos
+- Formato: 704x1344 (vertical)
+- Duración: 5 segundos por escena
+- Elementos:
+  - 5 pistas de audio
+  - 5 pistas de video
+  - 5 textos superpuestos
+  - Fondo negro con texto en blanco
+  - Fuente: Oswald (700 weight)
+  - Tamaño de texto: 7 vmin
+
+### 4. Publicación Automática
+#### Plataformas
+- YouTube
+- Instagram
+- TikTok
+
+#### Características
+- Genera copys optimizados
+- Incluye hashtags relevantes
+- Actualiza estado en Google Sheets
+
+## APIs Utilizadas
+1. Google Sheets
+2. OpenAI (GPT-4)
+3. Flux AI
+4. Kling AI
+5. ElevenLabs
+6. Creatomate
+7. Blotato (publicación)
+
+## Notas Importantes
+- La sincronización de audio y video es manejada por Creatomate
+- Cada escena tiene duración fija de 5 segundos
+- Los textos aparecen sincronizados con el contenido
+- El formato final es optimizado para redes sociales
+
+## Posibles Mejoras
+1. Implementar sistema similar de sincronización en nuestro script
+2. Usar Creatomate para resolver problemas de sincronización
+3. Automatizar la publicación en múltiples plataformas
+4. Generar contenido con IA para historias bíblicas 

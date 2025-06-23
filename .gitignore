@@ -1,0 +1,294 @@
+# Credenciales y claves de API
+config/credentials/
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.p8
+*.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de configuración sensibles
+secrets.json
+credentials.json
+service-account-key.json
+*_credentials.json
+*_api_key.txt
+*_api_key.json
+
+# Cachés y archivos temporales
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs y archivos de debug
+*.log
+logs/
+debug/
+*.debug
+
+# Archivos de salida y generados
+output/
+historias/*/audios/
+historias/*/videos/
+historias/*/imagen_*.png
+historias/*/voz_parrafo_*.mp3
+historias/*/video_final.mp4
+imagenes_generadas/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Archivos de caché específicos del proyecto
+C:/stable-diffusion-cache/
+stable-diffusion-cache/
+.gradio/
+weights/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# Archivos de backup y temporales
+*.bak
+*.tmp
+*.temp
+*_backup.py
+*_backup.*
+backup/
+temp/
+tmp/
+
+# Archivos de datos sensibles
+*.xlsx
+*.xls
+*.csv
+data/
+datasets/
+
+# Archivos de configuración local
+config.local.json
+settings.local.py
+local_config.py
+
+# Archivos de test que contengan datos sensibles
+test_*.mp3
+test_*.mp4
+test_*.png
+test_*.jpg
+
+# Archivos de instalación y dependencias específicas
+install_*.py
+requirements_*.txt
+sd_requirements.txt
+
+# Archivos de documentación temporal
+docs/temp/
+*.md.bak
+
+# Archivos de sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de respaldo de Windows
+*.lnk
+
+# Archivos de respaldo de macOS
+.AppleDouble
+.LSOverride
+
+# Archivos de respaldo de Linux
+*~
+
+# Archivos de respaldo de Vim
+*.swp
+*.swo
+*~
+
+# Archivos de respaldo de Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Archivos de respaldo de Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de respaldo de Atom
+.atom/
+
+# Archivos de respaldo de Brackets
+.brackets.json
+
+# Archivos de respaldo de WebStorm
+.idea/
+
+# Archivos de respaldo de PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de respaldo de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos de respaldo de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de respaldo de pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de respaldo de tox
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos de respaldo de mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Archivos de respaldo de bandit
+.bandit
+
+# Archivos de respaldo de safety
+safety-report.json
+
+# Archivos de respaldo de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de respaldo de conda
+.conda/
+
+# Archivos de respaldo de poetry
+poetry.lock
+
+# Archivos de respaldo de pipenv
+Pipfile.lock
+
+# Archivos de respaldo de pip-tools
+requirements.txt
+dev-requirements.txt
+
+# Archivos de respaldo de pipdeptree
+pipdeptree.txt
+
+# Archivos de respaldo de pip-check
+pip-check.txt
+
+# Archivos de respaldo de pip-audit
+pip-audit.txt
+
+# Archivos de respaldo de pip-review
+pip-review.txt
+
+# Archivos de respaldo de pip-upgrade
+pip-upgrade.txt
+
+# Archivos de respaldo de pip-outdated
+pip-outdated.txt
+
+# Archivos de respaldo de pip-list
+pip-list.txt
+
+# Archivos de respaldo de pip-show
+pip-show.txt
+
+# Archivos de respaldo de pip-freeze
+pip-freeze.txt
+
+# Archivos de respaldo de pip-download
+pip-download.txt
+
+# Archivos de respaldo de pip-hash
+pip-hash.txt
+
+# Archivos de respaldo de pip-search
+pip-search.txt
+
+# Archivos de respaldo de pip-cache
+pip-cache.txt
+
+# Archivos de respaldo de pip-config
+pip-config.txt
+
+# Archivos de respaldo de pip-debug
+pip-debug.txt
+
+# Archivos de respaldo de pip-help
+pip-help.txt
+
+# Archivos de respaldo de pip-version
+pip-version.txt
+
+# Archivos de respaldo de pip-completion
+pip-completion.txt 

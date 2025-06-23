@@ -1,0 +1,185 @@
+{
+  "total_parrafos": 30,
+  "parrafos": [
+    {
+      "numero": 1,
+      "texto": "\"Un encuentro al mediodía, junto a un pozo, cambió para siempre el curso de una vida y el destino de una nación.\"",
+      "imagen": "imagen_1.png",
+      "duracion_estimada": 6.6
+    },
+    {
+      "numero": 2,
+      "texto": "La mujer samaritana, rechazada por su pueblo, acudía a Jacob's Well en la hora más calurosa del día para evitar miradas juzgadoras.",
+      "imagen": "imagen_2.png",
+      "duracion_estimada": 6.6
+    },
+    {
+      "numero": 3,
+      "texto": "Su pasado, marcado por cinco matrimonios fallidos, la había dejado marcada por la soledad y el escarnio.",
+      "imagen": "imagen_3.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 4,
+      "texto": "En medio de su amargura, un hombre cansado se acercó, su sed era visible, su mirada penetrante.",
+      "imagen": "imagen_4.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 5,
+      "texto": "Era Jesús, el Mesías, y su presencia irradiaba una paz que ella desconocía.",
+      "imagen": "imagen_5.png",
+      "duracion_estimada": 3.9
+    },
+    {
+      "numero": 6,
+      "texto": "Él le pidió agua, una petición simple que desató un diálogo profundo y revelador.",
+      "imagen": "imagen_6.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 7,
+      "texto": "La mujer, desconcertada por su audacia, respondió con recelo y prejuicios, reflejo de la división entre judíos y samaritanos.",
+      "imagen": "imagen_7.png",
+      "duracion_estimada": 5.7
+    },
+    {
+      "numero": 8,
+      "texto": "Jesús, con infinita paciencia, trascendió las barreras culturales y religiosas.",
+      "imagen": "imagen_8.png",
+      "duracion_estimada": 3.0
+    },
+    {
+      "numero": 9,
+      "texto": "Él vio más allá de sus pecados, percibiendo su sed espiritual más profunda que la sed física.",
+      "imagen": "imagen_9.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 10,
+      "texto": "A través de la conversación, Jesús le reveló su identidad, desatando una asombrosa verdad en el corazón de la mujer.",
+      "imagen": "imagen_10.png",
+      "duracion_estimada": 6.0
+    },
+    {
+      "numero": 11,
+      "texto": "Sus palabras penetraron las capas de dolor y rechazo que la habían envuelto durante años.",
+      "imagen": "imagen_11.png",
+      "duracion_estimada": 4.5
+    },
+    {
+      "numero": 12,
+      "texto": "La mujer samaritana experimentó un cambio radical, un encuentro transformador con el amor incondicional de Dios.",
+      "imagen": "imagen_12.png",
+      "duracion_estimada": 4.8
+    },
+    {
+      "numero": 13,
+      "texto": "Sus cinco fracasos se convirtieron en una historia de redención, su soledad en un testimonio de esperanza.",
+      "imagen": "imagen_13.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 14,
+      "texto": "En un instante, su sed de aprobación humana fue reemplazada por la sed de Dios, un anhelo insaciable y profundo.",
+      "imagen": "imagen_14.png",
+      "duracion_estimada": 6.0
+    },
+    {
+      "numero": 15,
+      "texto": "Dejó su cántaro, símbolo de su pasado, y corrió a compartir la Buena Nueva a su pueblo.",
+      "imagen": "imagen_15.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 16,
+      "texto": "Su testimonio se convirtió en un faro de luz, guiando a muchos hacia el Salvador.",
+      "imagen": "imagen_16.png",
+      "duracion_estimada": 4.5
+    },
+    {
+      "numero": 17,
+      "texto": "La mujer, antes marginada y avergonzada, se transformó en una mensajera del amor divino.",
+      "imagen": "imagen_17.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 18,
+      "texto": "Su vida, antes sin rumbo, adquirió un propósito trascendental, dejando una huella imborrable.",
+      "imagen": "imagen_18.png",
+      "duracion_estimada": 3.9
+    },
+    {
+      "numero": 19,
+      "texto": "Este encuentro trascendió el tiempo, convirtiéndose en una poderosa ilustración del amor redentor de Cristo.",
+      "imagen": "imagen_19.png",
+      "duracion_estimada": 4.5
+    },
+    {
+      "numero": 20,
+      "texto": "Jesús se revela como el agua viva que sacia la sed eterna del alma humana, llevando consuelo y esperanza.",
+      "imagen": "imagen_20.png",
+      "duracion_estimada": 5.7
+    },
+    {
+      "numero": 21,
+      "texto": "Su compasión infinita se extiende a todos, independientemente de sus orígenes o pasados.",
+      "imagen": "imagen_21.png",
+      "duracion_estimada": 3.9
+    },
+    {
+      "numero": 22,
+      "texto": "Este encuentro es una invitación a dejar atrás el pasado, las culpas, los fracasos.",
+      "imagen": "imagen_22.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 23,
+      "texto": "Es una llamada a buscar el agua viva que Jesús ofrece, una fuente inagotable de amor y perdón.",
+      "imagen": "imagen_23.png",
+      "duracion_estimada": 5.3999999999999995
+    },
+    {
+      "numero": 24,
+      "texto": "Es una invitación a ser instrumentos de su gracia, compartiendo la Buena Nueva con aquellos que sufren y anhelan esperanza.",
+      "imagen": "imagen_24.png",
+      "duracion_estimada": 6.0
+    },
+    {
+      "numero": 25,
+      "texto": "Su historia nos recuerda que el amor de Dios puede transformar cualquier vida, sin importar cuán oscura sea.",
+      "imagen": "imagen_25.png",
+      "duracion_estimada": 5.3999999999999995
+    },
+    {
+      "numero": 26,
+      "texto": "No permitas que el juicio y el rechazo te detengan de buscar a Jesús.",
+      "imagen": "imagen_26.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 27,
+      "texto": "Abre tu corazón a su amor ilimitado y deja que te transforme.",
+      "imagen": "imagen_27.png",
+      "duracion_estimada": 3.5999999999999996
+    },
+    {
+      "numero": 28,
+      "texto": "Deja tu comentario y comparte este mensaje de esperanza con otros.",
+      "imagen": "imagen_28.png",
+      "duracion_estimada": 3.3
+    },
+    {
+      "numero": 29,
+      "texto": "Suscríbete a nuestro canal para más historias inspiradoras de la Biblia.",
+      "imagen": "imagen_29.png",
+      "duracion_estimada": 3.3
+    },
+    {
+      "numero": 30,
+      "texto": "Que la bendición de Dios te acompañe siempre.",
+      "imagen": "imagen_30.png",
+      "duracion_estimada": 2.4
+    }
+  ]
+}

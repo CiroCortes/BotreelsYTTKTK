@@ -1,0 +1,107 @@
+{
+  "total_parrafos": 17,
+  "parrafos": [
+    {
+      "numero": 1,
+      "texto": "La Resurrección de Lázaro: El poder de Jesús sobre la muerte, un presagio del Juicio Final.",
+      "imagen": "imagen_1.png",
+      "duracion_estimada": 4.8
+    },
+    {
+      "numero": 2,
+      "texto": "Lázaro, amigo de Jesús, yacía muerto, envuelto en telas funerarias, cuatro días en el sepulcro.",
+      "imagen": "imagen_2.png",
+      "duracion_estimada": 4.5
+    },
+    {
+      "numero": 3,
+      "texto": "Un silencio sepulcral reinaba en Betania, la desesperación se cernía sobre sus hermanas, Marta y María.",
+      "imagen": "imagen_3.png",
+      "duracion_estimada": 4.8
+    },
+    {
+      "numero": 4,
+      "texto": "Jesús, con su mirada compasiva,  llegó al lugar del duelo, llevando consigo la promesa de vida.",
+      "imagen": "imagen_4.png",
+      "duracion_estimada": 4.8
+    },
+    {
+      "numero": 5,
+      "texto": "Marta, con fe vacilante, expresó su creencia en el poder de Jesús, un eco de la esperanza ante la tragedia.",
+      "imagen": "imagen_5.png",
+      "duracion_estimada": 6.0
+    },
+    {
+      "numero": 6,
+      "texto": "Jesús, con voz poderosa, anunció la resurrección inminente, despertando un rayo de esperanza en el corazón de Marta.",
+      "imagen": "imagen_6.png",
+      "duracion_estimada": 5.3999999999999995
+    },
+    {
+      "numero": 7,
+      "texto": "María, al encontrarse con Jesús, lloraba desconsoladamente, inundada por la pena y la impotencia.",
+      "imagen": "imagen_7.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 8,
+      "texto": "Ante el clamor de la multitud, Jesús, con un gesto solemne, se dirigió a la tumba, un lugar de sombras y muerte.",
+      "imagen": "imagen_8.png",
+      "duracion_estimada": 6.6
+    },
+    {
+      "numero": 9,
+      "texto": "Oró a su Padre celestial, pidiendo el milagro de la vida, para confirmar su poder y gloria.",
+      "imagen": "imagen_9.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 10,
+      "texto": "La orden retumbó: \"¡Lázaro, sal fuera!\". El silencio fue quebrado por un sonido escalofriante.",
+      "imagen": "imagen_10.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 11,
+      "texto": "Las telas funerarias se movieron. Un cuerpo emerge, envuelto en lino, con pasos vacilantes.",
+      "imagen": "imagen_11.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 12,
+      "texto": "Lázaro, resucitado, apareció ante los atónitos testigos, un testimonio palpable de la omnipotencia divina.",
+      "imagen": "imagen_12.png",
+      "duracion_estimada": 4.2
+    },
+    {
+      "numero": 13,
+      "texto": "La multitud, en medio del asombro y el miedo, presenció la demostración del poder de Jesús sobre la muerte.",
+      "imagen": "imagen_13.png",
+      "duracion_estimada": 5.7
+    },
+    {
+      "numero": 14,
+      "texto": "Jesús, con un gesto de calma, liberó a Lázaro de las ataduras de la muerte, un nuevo comienzo para Lázaro.",
+      "imagen": "imagen_14.png",
+      "duracion_estimada": 6.0
+    },
+    {
+      "numero": 15,
+      "texto": "Este milagro, preludio del Juicio Final, reforzó la fe de algunos y la incredulidad de otros.",
+      "imagen": "imagen_15.png",
+      "duracion_estimada": 4.8
+    },
+    {
+      "numero": 16,
+      "texto": "La resurrección de Lázaro selló el destino de muchos, algunos se convirtieron, otros se alejaron en incredulidad.",
+      "imagen": "imagen_16.png",
+      "duracion_estimada": 5.1
+    },
+    {
+      "numero": 17,
+      "texto": "El poder de Jesús resonó como un trueno en el desierto, resonando hasta el día de hoy.",
+      "imagen": "imagen_17.png",
+      "duracion_estimada": 5.1
+    }
+  ]
+}
